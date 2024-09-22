@@ -1,0 +1,165 @@
+.nav-item{
+    margin-left: 35%;
+}
+
+.backround{
+    position: relative;
+
+
+}
+.backround-text{
+position: absolute;
+top: 0;
+color: rgb(255, 255, 255);
+margin-top: 20%;
+margin-left: 55%;
+
+}
+.backround-text h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    letter-spacing: 15px;
+}
+.backround-text h4{
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.backround-text button{
+
+    margin-left: 60%;
+    margin-top: 10%;
+    width: 200px;
+}
+.container{
+    padding-top: 2%;
+    max-width:1150px ;
+    margin: 0 auto;
+    display: flex;
+    column-gap: 20px;
+    
+}
+
+.card{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 3px 3px rgb(0,0,0.15);
+
+}
+.img{
+    width:250px;
+    height:250px;
+    object-fit: cover;
+    margin: 0 auto;
+
+
+}
+
+.heading{
+    padding: 10px;
+
+}
+.card h5{
+    padding-left: 10px;
+    color: red;
+    font-family: "Squada One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.card h6{
+    padding-left: 10px;
+    color: green;
+    padding-bottom: 10px;
+}
+
+.bnt{
+    border: initial;
+    background: initial;
+    background-color: rgb(236, 67, 67);
+    color: white;
+    padding: 10px 15px;
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 50px;
+    font-family: "Rajdhani", sans-serif;
+  padding-block: 5px;
+
+    
+
+}
+
+.img-1{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+
+
+}
+.container-about{
+display: flex;
+column-gap: 10px;
+padding: 20px  65px;
+
+
+}
+.titlecov1{
+position: absolute;
+top: 60%;
+color: rgb(255, 255, 255);
+margin-top: 50%;
+margin-left: 2%;
+
+    }
+.parcov1{
+position: absolute;
+top: 60%;
+color: rgb(255, 255, 255);
+margin-top: 55%;
+margin-left: 2%;
+width: 300px;
+height: 600px;
+
+
+}
+
+#about1{
+margin-left: 43% ;
+margin-top: 2%;
+font-family: "Rajdhani", sans-serif;
+font-weight: 300;
+font-style: normal;
+letter-spacing: 10px;
+}
+
+.info{
+    margin-left: 45% ;
+    margin-top: 2%;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 10px;
+
+
+}
+.vinfo{
+   margin-left: 11%;
+   object-fit: cover;
+   
+}
+.list{
+    background-color: rgb(221, 221, 221);
+    list-style-type: none;
+  margin: 0;
+  padding: 50px;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.list li{
+    margin-left: 6%;
+
+}
+
